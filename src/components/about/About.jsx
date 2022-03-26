@@ -17,6 +17,7 @@ const About = () => {
             <img src={ME} alt="About pic" />
           </div>
         </div>
+
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
@@ -38,8 +39,6 @@ const About = () => {
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum explicabo aliquid aliquam ratione reprehenderit aut veritatis officia fuga, enim, sed non magnam ad error placeat recusandae magni. Dolorum, possimus earum?
           </p>
-
-          <a href='#contact' className='btn btn-primary'>Contact Me!</a>
         </div>
       </div>
     </section>
