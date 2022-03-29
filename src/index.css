@@ -55,10 +55,10 @@ h1{
     font-size: 2.5rem;
 }
 
-/* section {
-    height: 100vh;
-    margin-top: 30rem;
-} */
+section {
+    /* height: 100vh; */
+    margin-bottom: 10rem;
+}
 
 section > h2, section > h5 {
     text-align: center;
