@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me_head.jpg'
 import {MdOutlineWorkOutline} from 'react-icons/md'
-import {MdSchool} from 'react-icons/md'
+import {GiTigerHead} from 'react-icons/gi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
@@ -26,9 +26,9 @@ const About = () => {
               <small>2+ Years</small>
             </article>
             <article className='about__card'>
-              <MdSchool className='about__icon'/>
+              <GiTigerHead className='about__icon'/>
               <h5>Education</h5>
-              <small>Studied CS at Mizzou</small>
+              <small>Studied Computer Science at Mizzou</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>

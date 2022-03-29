@@ -55,10 +55,10 @@ h1{
     font-size: 2.5rem;
 }
 
-section {
+/* section {
     height: 100vh;
-    margin-top: 8rem;
-}
+    margin-top: 30rem;
+} */
 
 section > h2, section > h5 {
     text-align: center;
@@ -128,7 +128,7 @@ img{
         width: var(--container-width-sm);
     }
 
-    section > h2{
+    section h2{
         margin-bottom: 2rem;
     }
 }
