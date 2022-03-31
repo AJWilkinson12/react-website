@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum explicabo aliquid aliquam ratione reprehenderit aut veritatis officia fuga, enim, sed non magnam ad error placeat recusandae magni. Dolorum, possimus earum?
+            I studied Computer Science at the University of Missouri. Skilled in both Frontend and Backend Development, and very quick to learn and adapt to new languages. I am a very eager Software Engineer ready to take on new tasks and challenges.
           </p>
         </div>
       </div>
