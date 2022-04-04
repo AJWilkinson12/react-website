@@ -18,11 +18,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>I have taken courses in web development</p>
+              <p>I have taken courses in web development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>I made this very website using React</p>
+              <p>I made this very website using React.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
@@ -47,11 +47,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>I am certifed by Mizzou in Mobile and Web Application Development</p>
+              <p>I am certifed by Mizzou in Mobile and Web Application Development.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Very interested in working with Swift and Kotlin</p>
+              <p>Extremely excited in working with Swift and Kotlin.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
