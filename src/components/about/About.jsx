@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I studied Computer Science at the University of Missouri. Skilled in both Frontend and Backend Development, and very quick to learn and adapt to new languages. I am a very eager Software Engineer ready to take on new tasks and challenges.
+            I studied Computer Science at the University of Missouri. Skilled in both Frontend and Backend Development. Also, swift to learn and adapt to new languages. I am a very eager Software Engineer ready to take on new tasks and challenges.
           </p>
         </div>
       </div>

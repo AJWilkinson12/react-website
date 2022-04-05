@@ -26,7 +26,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>I have built websites for multiple clients.</p>
+              <p>Built websites for multiple clients.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
@@ -51,11 +51,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Extremely excited in working with Swift and Kotlin.</p>
+              <p>Skilled working with Swift and Kotlin.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Always willing to help develop applications for others.</p>
+              <p>Willingness to help develop applications for others.</p>
             </li>
           </ul>
         </article>
