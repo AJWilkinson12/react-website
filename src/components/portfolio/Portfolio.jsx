@@ -25,7 +25,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="img1"/>
           </div>
-          <h3>Assuarnce Mobile App (Weapon Detection App)</h3>
+          <h3>Assurance Mobile App (Weapon Detection App)</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/TechForGoodInc/Assurance-Mobile-UI" className='btn' target="_blank" rel="noreferrer">Github</a>
           </div>
